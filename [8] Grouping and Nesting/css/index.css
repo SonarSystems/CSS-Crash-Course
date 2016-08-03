@@ -1,0 +1,22 @@
+/* Comment */
+
+body
+{
+	background-color: black;
+	color: white;
+}
+
+#Hello, #Hello2, .hello3
+{
+	font-size: 4em;
+}
+
+p
+{
+	text-decoration: line-through;
+}
+
+.parent p
+{
+	color: red;
+}
