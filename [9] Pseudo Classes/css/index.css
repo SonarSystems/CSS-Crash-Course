@@ -1,0 +1,41 @@
+/* Comment */
+
+body
+{
+	/*background-color: black;
+	color: white;*/
+}
+
+/* Change the color of a link */
+a:link
+{
+	color: red;
+}
+
+/* Change the color of a link that has been clicked on */
+a:visited
+{
+	color: blue;
+}
+
+/* Change the color of a link that is being pressed but not yet released */
+a:active
+{
+	font-weight: bold;
+}
+
+/* Change the color of a link that is being hovered over by the cursor */
+a:hover
+{
+	text-decoration: none;
+}
+
+a:focus
+{
+	font-size: 4em;
+}
+
+a:first-child
+{
+	background-color: yellow;
+}

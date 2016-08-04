@@ -1,0 +1,48 @@
+/* Comment */
+
+body
+{
+	/*background-color: black;
+	color: white;*/
+}
+
+#Div1
+{
+	margin-top: 190px;
+	margin-right: 5px;
+	margin-bottom: 100px;
+	margin-left: 600px;	
+}
+
+/* Padding can be used the same way */
+#Div2
+{
+	margin: 190px 5px 100px 600px;
+}
+
+/*
+*	50px applied to the top and the bottom
+*	78px applied to the right and left
+#Div2
+{
+	margin: 50px 78px;
+}
+*/
+
+#Div3
+{
+	border-width: 5px;
+    border-color: blue;
+    border-style: dotted;
+}
+
+/* Same principle can be applied to the left, right, top and bottom properties */
+#Div4
+{
+	border: 5px blue dotted;
+}
+
+#Div5
+{
+	font: italic bold 4em arial;
+}

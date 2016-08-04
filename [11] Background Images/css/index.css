@@ -1,0 +1,15 @@
+/* Comment */
+
+body
+{
+	/*background-color: black;
+	color: white;*/
+}
+
+div
+{
+	background-image: url(http://www.sonarlearning.co.uk/images/Site-Header-Logo.png);
+	height: 500px;
+	width: 500px;
+	background-repeat: no-repeat;
+}
