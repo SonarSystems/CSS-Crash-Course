@@ -1,0 +1,16 @@
+/* Comment */
+
+#Left
+{
+	float: left;
+}
+
+#Right
+{
+	float: right;
+}
+
+#Clear
+{
+	clear: both;
+}

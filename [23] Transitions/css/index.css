@@ -1,0 +1,8 @@
+/* Comment */
+div:hover
+{
+	font-size: 2em;
+	color: red;
+
+	transition: font-size 2s, color 1s;
+}

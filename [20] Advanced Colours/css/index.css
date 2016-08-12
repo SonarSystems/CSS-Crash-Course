@@ -1,0 +1,21 @@
+/* Comment */
+
+*
+{
+	font-size: 2em;
+}
+
+#Alpha
+{
+	color: rgba(255, 0, 0, 0.2);
+}
+
+#HSL
+{
+	color: hsl( 78, 100%, 40% );
+}
+
+#HSLA
+{
+	color: hsla( 78, 100%, 40%, 0.3 );
+}

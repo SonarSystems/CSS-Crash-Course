@@ -1,0 +1,27 @@
+/* Comment */
+
+img
+{
+	margin: 100px;
+	width: 150px;
+}
+
+#Rotation
+{
+	transform: rotate(250deg);
+}
+
+#Skewing
+{
+	transform: skew(40deg,70deg);
+}
+
+#Scaling
+{
+	transform: scale(2, 0.5);
+}
+
+#Translation
+{
+	transform: translate(400px,200px);
+}

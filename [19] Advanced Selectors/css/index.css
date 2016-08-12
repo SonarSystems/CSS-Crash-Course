@@ -1,0 +1,25 @@
+/* Comment */
+
+*
+{
+	font-size: 1.5em;
+	color: green;
+
+	font-weight: bold;
+}
+
+#Div1 *
+{
+	background-color: yellow;
+}
+
+#Div1 > p
+{
+	background-color: blue;
+	color: white;
+}
+
+h2 + h3
+{
+	font-size: 1em;
+}

@@ -1,0 +1,23 @@
+/* Comment */
+
+#Static
+{
+	left: 50px;
+}
+
+#Relative
+{
+	position: relative;
+	left: 50px;
+}
+
+#Absolute
+{
+	position: absolute;
+	left: 50px;
+}
+
+#Fixed
+{
+	position: fixed;
+}

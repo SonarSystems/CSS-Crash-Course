@@ -1,0 +1,22 @@
+/* Comment */
+
+div::first-letter
+{
+	font-size: 2em;
+	color: red;
+}
+
+div::first-line
+{
+	color: blue;
+}
+
+div::before
+{
+	content: "Hello";
+}
+
+div::after
+{
+	content: "World!";
+}

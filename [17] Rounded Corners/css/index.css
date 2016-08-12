@@ -1,0 +1,24 @@
+/* Comment */
+
+#Cornered
+{
+	height: 512px;
+	width: 512px;
+	margin: 50px;
+	background-color: red;
+
+	/* Targets all four corners */
+	/* border-radius: 50px; */
+
+	/* Circle */
+	/* border-radius: 256px; */
+
+	/* Clockwise from the Top Left -> Top Right -> Bottom Right -> Bottom Left */
+	/* border-radius: 10px 20px 40px 80px; */
+
+	/* First value targets the Top Left and the Bottom Right. Second value targets the Bottom Left and the Top Right */
+	/* border-radius: 40px 256px; */
+
+	/* Targets a specific corner */
+	/* border-bottom-left-radius: 90px; */
+}
