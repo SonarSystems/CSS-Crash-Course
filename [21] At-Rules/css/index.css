@@ -12,16 +12,3 @@
 	font-size: 2em;
 	font-family: "awesomeFont", serif
 }
-
-@media screen and (max-width: 512px) 
-{
-    body
-    {
-        background-color: blue;
-    }
-
-    div
-    {
-    	color: white;
-    }
-}
