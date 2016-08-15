@@ -1,0 +1,14 @@
+/* Comment */
+
+@media screen and (max-width: 512px) 
+{
+    body
+    {
+        background-color: blue;
+    }
+
+    div
+    {
+    	color: white;
+    }
+}
